@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Je suiss AushiroEnLive</h1>
+<h1 align="center">Hi 👋, Je suis AushiroEnLive</h1>
 <h3 align="center">Un gars banal d'après moi !</h3>
 
 - 🔭 Je travaille actuellement sur [Orora-MC](https://discord.gg/SHDtJzex23)
